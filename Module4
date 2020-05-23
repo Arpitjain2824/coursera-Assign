@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="Lecture40/js1/scripts.js"></script>
+<script>
+console.log(x);
+	
+</script>
+</head>
+<body>
+	<h1>Briyani</h1>
+	<script>
+console.log("Arpit");
+	
+</script>
+</body>
+</html>
